@@ -24,6 +24,9 @@ public class VOServiceTest {
 		
 		System.out.println("\n*** AntBuild Test ***");
 		System.out.println("** VOService 출력 => " + service.getMemberVO());
+		
+		// ** github commit Test
+		System.out.println("** commit Test code 추가 **");
 
 	} // main
 
